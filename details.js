@@ -1,5 +1,5 @@
 const books = [
-    { id: 1, title: "Fiction Book 1", category: "Fiction", isFree: true, price: "$0.00", image: "https://via.placeholder.com/150" },
+    { id: 1, title: "HTML learning book", category: "Programming", isFree: true, price: "$0.00", image: "https://www.kotobati.com/sites/default/files/2023-12/_jpgresize.com_%D8%A7%D9%84%D8%AB%D8%B9%D9%84%D8%A8%20%D8%B3%D9%8A%D9%83%D9%88%20%287%29.jpeg" },
     { id: 2, title: "Science Book 1", category: "Science", isFree: false, price: "$15.99", image: "https://via.placeholder.com/150" },
     { id: 3, title: "Technology Book 1", category: "Technology", isFree: true, price: "$0.00", image: "https://via.placeholder.com/150" },
     { id: 4, title: "Fiction Book 2", category: "Fiction", isFree: false, price: "$9.99", image: "https://via.placeholder.com/150" },
